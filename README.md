@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**MialinirinaAnja/MialinirinaAnja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I'm Anja, I'm a learner who want to discover the Universe of Web and Digital
 - 🔭 I’m currently in the pocess of discovering this fabulous world
 - 🌱 I’m more interested with everything related to art (design, photoshop and so on)
